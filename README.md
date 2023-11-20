@@ -7,7 +7,7 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LordTricker&theme=dracula&layout=compact&hide_title=true&langs_count=10" alt="LordTricker's wakatime stats"><br/>
-![](https://github-readme-stats.vercel.app/api?username=oskar1331&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LordTricker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LordTricker&theme=dark&hide_border=false)
 ---
 [![](https://visitcount.itsvg.in/api?id=oskar1331&icon=0&color=0)](https://visitcount.itsvg.in)
